@@ -27,15 +27,24 @@ depression-audio-app/
 
 Installation
 
-  1. Clone the repo
+Clone the repo
    ```bash
    git clone https://github.com/sumit-kakde/data2vec.git
    cd data2vec
 
-  2. Install dependencies
+Install dependencies
    pip install -r requirements.txt
 
-  3.Run the app
+ Run the app
    streamlit run depression_app.py
+
+License
+This project is licensed under the MIT License.
+
+Disclaimer
+This tool provides a preliminary voice-based mental health analysis and does not replace professional medical evaluation.
+
+
+
 
 
