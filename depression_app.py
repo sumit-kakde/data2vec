@@ -6,7 +6,7 @@ import numpy as np
 import os
 from tempfile import NamedTemporaryFile
 import soundfile as sf
-
+os.environ["STREAMLIT_WATCH_DIRECTORIES"] = "false"
 # ========== CONSTANTS & CONFIG ==========
 SAMPLE_RATE = 16000
 MAX_AUDIO_LENGTH = 10 * SAMPLE_RATE
