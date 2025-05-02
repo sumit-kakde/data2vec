@@ -42,5 +42,5 @@ Installation
 License
 This project is licensed under the MIT License.
 
-Disclaimerc
+Disclaimer
 This tool provides a preliminary voice-based mental health analysis and does not replace professional medical evaluation.
