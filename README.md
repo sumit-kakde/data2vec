@@ -39,8 +39,3 @@ Installation
    streamlit run depression_app.py
 
 
-License
-This project is licensed under the MIT License.
-
-Disclaimer
-This tool provides a preliminary voice-based mental health analysis and does not replace professional medical evaluation.
