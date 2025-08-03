@@ -11,7 +11,7 @@ This Streamlit app uses a fine-tuned [`facebook/data2vec-audio-base`](https://hu
  View predicted label with confidence scores
  Confidence bar chart
  Downloadable HTML report
-Responsive and modern UI with custom CSS
+ Responsive and modern UI with custom CSS
 
 ---
 
